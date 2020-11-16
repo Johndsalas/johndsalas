@@ -1,6 +1,6 @@
 ## Well met, friend 🤝
 
-![]()
+![](https://document-export.canva.com/KiMxQ/DAENr7KiMxQ/25/thumbnail/9jzIb0JklC3kRv-ACDBCAQ-0001-13189866887.png)
 
 🔎 Something to describe me: I love analytics! Whether I’m looking for trends in data, pondering philosophical questions, or considering my play in a board or card game, I love breaking problems down and looking for the optimal solution.
 
