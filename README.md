@@ -6,9 +6,9 @@
 
 🎲 **Fun fact:** I am a strategy gamer, and I love making games as much as I love playing them.
 
-🏆 **Accomplishments:** I completed Codeup’s Data Science Career Accelerator and DataRobot’s 10X Applied Data Science Academy
+🏆 **Accomplishments:** I have completed Codeup’s Data Science Career Accelerator and DataRobot’s 10X Applied Data Science Academy
 
-⚒ **I am currently working on:** Space Commander, a resource management game written in Python
+⚒ **I am currently working on:** Space Commander, a space themed resource management game, written in Python
 
 📓 **Upcoming Project:** Use NLP to sort Magic: The Gathering cards by color, using their rules text
 
