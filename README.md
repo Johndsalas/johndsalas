@@ -10,8 +10,9 @@ My name Is John Salas and this is my Github
 
 ⚒ I am currently working on: Space Commander, a resource management game written in Python
 
-📓 Upcoming Project: An NLP project to sort Magic: The Gathering cards by color, using their rules text
+📓 Upcoming Project: Use NLP to sort Magic: The Gathering cards by color, using their rules text
 
+💬 Ask me about: strategies for breaking down problems, strategy games, philosophy, or my latest new game idea.
 <!--
 **Johndsalas/johndsalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
