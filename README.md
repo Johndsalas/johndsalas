@@ -2,7 +2,7 @@
 
 **My Card:**
 
-![](Card.png)
+![](NewCard.png)
 
 🔎 **Something to describe me:** I love analytics! Whether I’m looking for trends in data, pondering philosophical questions, or considering my play in a board or card game, I love breaking problems down and looking for the optimal solution.
 
