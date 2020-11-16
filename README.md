@@ -1,6 +1,6 @@
 ### Well met, friend 🤝
 
-My name Is John Salas and this is my Github
+![](Bcard.png)
 
 🔎 Something to describe me: I love analytics! Whether I’m looking for trends in data, pondering philosophical questions, or considering my play in a board or card game, I love breaking problems down and looking for the optimal solution.
 
