@@ -4,7 +4,7 @@
 
 🎲 **Fun fact:** I am a strategy gamer, and I love making games as much as I love playing them.
 
-🏆 **Education:** DataRobot 10X: Applied Data Science Academy; Codeup Data Science Career Accelerator; Bachelor of Science, Texas Cristian University
+📝**Education:** DataRobot 10X: Applied Data Science Academy; Codeup Data Science Career Accelerator; Bachelor of Science, Texas Cristian University
 
 ⚒ **I am currently working on:** Space Commander, a space themed resource management game, written in Python
 
