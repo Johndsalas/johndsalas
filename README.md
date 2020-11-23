@@ -8,7 +8,7 @@
 
 ⚒ **I am currently working on:** Space Commander, a space themed resource management game, written in Python
 
-📓 **Upcoming Project:** Use NLP to sort Magic: The Gathering cards by color, using their rules text
+📓 **Upcoming project:** Use NLP to sort Magic: The Gathering cards by color, using their rules text
 
 💬 **Ask me about:** strategies for breaking down problems, strategy games, philosophy, or my latest new game idea.
 
