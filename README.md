@@ -1,4 +1,4 @@
-# Welcome to My GitHub! <br> Links to my completed projects are posted on this page!
+![](github_welcome.png)
 
 # Independant Data Projects
 
