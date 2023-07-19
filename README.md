@@ -13,7 +13,7 @@ Leveraged natural language processing, and regression machine learning technique
 
 # Coursework Data Projects
 
-## Capstones:
+## Capstones
 
 ### [Predicting Employee Attrition](https://github.com/Johndsalas/employee_churn)
 **Capstone Project for DataRobot’s 10x: Applied Data Science Academy** <br>
@@ -34,7 +34,7 @@ Leveraged clustering and regression machine learning techniques to look for driv
 ### [Zillow Property Value](https://github.com/Johndsalas/zillow_project)
 Leveraged data analytics and regression machine learning techniques to look for drivers of property value in Zillow properties
 
-# Non-Data Projects Just for  Fun!:
+# Non-Data Projects Just for Fun
 
 ### [Pony Racing Game](https://github.com/Johndsalas/racing_simulator)
 Leveraged pygame and python classes to develop a game where players watch ponies race across a field 
