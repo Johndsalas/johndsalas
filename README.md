@@ -8,7 +8,7 @@ Leveraged data analysis and classification machine learning tools to look for dr
 ### [Earth’s Temperature Time Series](https://github.com/Johndsalas/earths_temperature_time_series) 
 Leveraged time series machine learning techniques to develop Holt-Winter models capable of predicting the Earth’s average monthly temperature with less than one degree of error
 
-### [Magic: the Gathering Sentiment Analysis](https://github.com/Johndsalas/Sentiment_Analysis_Magic_The_Gathering)
+### [Magic The Gathering Sentiment Analysis](https://github.com/Johndsalas/Sentiment_Analysis_Magic_The_Gathering)
 Leveraged natural language processing, and regression machine learning techniques to look for drivers of sentiment in the flavor text of Magic: the Gathering Cards
 
 # Coursework Data Projects
