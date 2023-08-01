@@ -3,7 +3,7 @@
 # Independant Data Projects
 
 ### [Chess Upsets Example Project](https://github.com/Johndsalas/chess_upsets_example_project) 
-Leveraged data classification machine learning tools to look for drivers of churn in chess games. This Project is now linked in the Codeup curriculum and serves as an example to students beginning their first projects
+Leveraged data analysis and classification machine learning tools to look for drivers of upsets in chess games. This Project is now linked in Codeup's curriculum and serves as an example to students beginning their first projects.
 
 ### [Earth’s Temperature Time Series](https://github.com/Johndsalas/earths_temperature_time_series) 
 Leveraged time series machine learning techniques to develop Holt-Winter models capable of predicting the Earth’s average monthly temperature with less than one degree of error
