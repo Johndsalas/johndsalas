@@ -25,9 +25,6 @@ Leveraged Spark, Pandas, and classification machine learning techniques to devel
 
 ## Other Codeup Projects
 
-### [GitHub NLP Analysis](https://github.com/JSBayes/NLP-Project)
-Leveraged web scraping, natural language processing, and classification machine learning techniques to develop a random forest with AdaBoost classifier capable of predicting the programming language of a GitHub repository from the contents of its readme file 30% better than chance
-
 ### [Zillow Log-Error](https://github.com/P-F-M/logerror_zillow)
 Leveraged clustering and regression machine learning techniques to look for drivers of Error in Zillow’s property value predictions
 
