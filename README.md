@@ -2,6 +2,8 @@
 
 # Independant Data Projects
 
+### [Netflix Genre Labeler](https://github.com/Johndsalas/netflix_genre_labeler/tree/main)
+
 ### [Chess Upsets Example Project](https://github.com/Johndsalas/chess_upsets_example_project) 
 Leveraged data analysis and classification machine learning tools to look for drivers of upsets in chess games. This Project is now linked in Codeup's curriculum and serves as an example to students beginning their first projects.
 
