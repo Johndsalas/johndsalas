@@ -2,7 +2,8 @@
 
 # Independant Data Projects
 
-### [Netflix Genre Labeler](https://github.com/Johndsalas/netflix_genre_labeler/tree/main)
+### [Netflix Genre Labeler](https://github.com/Johndsalas/netflix_genre_labeler/tree/main) 
+Leveraged data analysis and Natural Language Processing to investigate generating genre labels for Netflix films based on the Netflix descriptions of those films and developed a logistic regression machine learning model capable of predicting if a film was in the comedy genre with ~78% accuracy
 
 ### [Chess Upsets Example Project](https://github.com/Johndsalas/chess_upsets_example_project) 
 Leveraged data analysis and classification machine learning tools to look for drivers of upsets in chess games. This Project is now linked in Codeup's curriculum and serves as an example to students beginning their first projects.
@@ -24,14 +25,6 @@ Utilized a combination of Pandas and DataRobot’s model building UI to develop 
 ### [Early Failing Hard Drive Analysis](https://github.com/just-keep-spinning/hard-drive-project)
 **Capstone Project for Codeup** <br>
 Leveraged Spark, Pandas, and classification machine learning techniques to develop a support vector machine capable of predicting 93% of early failing hard drives
-
-## Other Codeup Projects
-
-### [Zillow Log-Error](https://github.com/P-F-M/logerror_zillow)
-Leveraged clustering and regression machine learning techniques to look for drivers of Error in Zillow’s property value predictions
-
-### [Zillow Property Value](https://github.com/Johndsalas/zillow_project)
-Leveraged data analytics and regression machine learning techniques to look for drivers of property value in Zillow properties
 
 # Non-Data Projects Just for Fun
 
