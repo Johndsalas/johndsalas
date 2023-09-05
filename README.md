@@ -14,9 +14,7 @@ Leveraged time series machine learning techniques to develop Holt-Winter models 
 ### [Magic The Gathering Sentiment Analysis](https://github.com/Johndsalas/Sentiment_Analysis_Magic_The_Gathering)
 Leveraged natural language processing, and regression machine learning techniques to look for drivers of sentiment in the flavor text of Magic: the Gathering Cards
 
-# Coursework Data Projects
-
-## Capstones
+# Capstones
 
 ### [Predicting Employee Attrition](https://github.com/Johndsalas/employee_churn)
 **Capstone Project for DataRobot’s 10x: Applied Data Science Academy** <br>
