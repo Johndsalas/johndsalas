@@ -3,7 +3,7 @@
 # Independant Data Projects
 
 ### [Arkham DB Web Scraper](https://github.com/Johndsalas/arkham_lcg_scraper)
-Scraped player card information from [Arkham DB](https://arkhamdb.com/), converting it to tabular form and loading it into a csv
+Developed a script to automate scraping and cleaning player card data from [Arkham DB](https://arkhamdb.com/) 
 
 ### [Netflix Genre Labeler](https://github.com/Johndsalas/netflix_genre_labeler/tree/main) 
 Leveraged data analysis and Natural Language Processing to investigate generating genre labels for Netflix films based on the Netflix descriptions of those films and developed a logistic regression machine learning model capable of predicting if a film was in the comedy genre with ~78% accuracy
