@@ -2,6 +2,12 @@
 
 # Independant Data Projects
 
+### [Wrangle LGS Data](https://github.com/Johndsalas/wrangle_lgs_data)
+Wrangle and document preparation of transaction data from a local game store for use in future projects
+
+### [Customer Interest Analysis](https://github.com/Johndsalas/customer_interest_analysis)
+Describe how differing interest groups influence customer purchasing decisions at a local game store in 2023 and make recommendations for increasing sales
+
 ### [Arkham DB Web Scraper](https://github.com/Johndsalas/arkham_lcg_scraper)
 Developed a script to automate scraping and cleaning player card data from [Arkham DB](https://arkhamdb.com/) 
 
