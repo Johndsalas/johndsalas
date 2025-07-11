@@ -3,7 +3,7 @@
 # Independant Data Projects
 
 ### [Evictions and Homelessness](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main)
-In association with Haven for Hope I Ivestigated the link between evictions and homelessness while cleaing and comparing two disparate sources of data and developing a [Tableau Story](https://public.tableau.com/app/profile/john.salas/viz/HavenEvictionsProject/Story?publish=yes) to show the results
+In association with Haven for Hope I Ivestigated the link between evictions and homelessness while cleaing and comparing two disparate sources of data and developing a Tableau Story to show the results
 
 ### [Customer Interest Analysis](https://github.com/Johndsalas/customer_interest_analysis)
 Describe how differing interest groups influence customer purchasing decisions at a local game store in 2023 and make recommendations for increasing sales
