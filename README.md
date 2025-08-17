@@ -1,9 +1,11 @@
 ![](github_welcome.png)
 
-# Independant Data Projects
+# Volunteer Projects
 
-### [Evictions and Homelessness](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main)
-In association with Haven for Hope I Ivestigated the link between evictions and homelessness while cleaing and comparing two disparate sources of data and developing a Tableau Story to show the results
+### [Evictions and Homelessness](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main)     8/2025
+In association with Haven for Hope I demonstrated a clear link between eviction cases and 311 service requests related to homelessness suggesting that there is a relationship between Evictions and homelessness. As part of this project I cleaned and compared two data sets and developed a Tableau story to present the results. 
+
+# Independant Data Projects
 
 ### [Customer Interest Analysis](https://github.com/Johndsalas/customer_interest_analysis)
 Describe how differing interest groups influence customer purchasing decisions at a local game store in 2023 and make recommendations for increasing sales
@@ -25,6 +27,17 @@ Developed Holt-Winter models capable of predicting the Earth’s average monthly
 
 ### [Magic The Gathering Sentiment Analysis](https://github.com/Johndsalas/Sentiment_Analysis_Magic_The_Gathering)
 Developed a regression project to look for drivers of sentiment in the flavor text of Magic: the Gathering Cards
+
+# Tableau Dashboards and Stories
+
+### [Evictions and Homelessness Tableau Story](https://public.tableau.com/app/profile/john.salas/viz/HavenEvictionsProject/Story)
+Tableau Story corresponding to Evictions and Homelessness project presenting the relationship found between evictions and homelessness
+
+### [Service Request Heat Map](https://public.tableau.com/app/profile/john.salas/viz/311ServiceRequests_17439978790040/Dashboard1)
+Interactive Tableau dashboard displaying a heatmap of 311 service calls by zip code in San Antonio. Users can choose to display the data by year and council district. Hovering over a zipcode area will bring up a tooltip displaying the count of service calls in that area by category
+
+### [Autumn Leaves Attrition Statistics](https://public.tableau.com/app/profile/john.salas/viz/AutumnLeavesAttritionStatistics/AutumLeavesAttritionStatistics)
+Tableau dashboard displaying synthetic attrition statistics 
 
 # Capstones
 
