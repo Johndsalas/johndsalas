@@ -52,13 +52,13 @@ Leveraged Spark, Pandas, and classification machine learning techniques to devel
 # Non-Data Projects
 
 ### [Pony Racing Game](https://github.com/Johndsalas/racing_simulator)
-Leveraged pygame and python classes to develop a game where players watch ponies race across a field 
+Used pygame to develop a game where players watch ponies race across a field 
 
 ### [Space Game](https://github.com/Johndsalas/space_game)
-Leveraged pygame to develop a fully interactable “space invaders” inspired game 
+Used pygame to develop a fully interactable “space invaders” inspired game 
 
 ### [Sudoku Solver](https://github.com/Johndsalas/Sudoku_Solver)
-Leveraged recursion to develop an algorithm capable of solving any Sudoku board 
+Used recursion to develop an algorithm capable of solving any Sudoku board 
 
 ### [Space Commander](https://github.com/Johndsalas/space_commander)
-Leveraged random to create a python text-based game where player make strategic decisions about how to manage limited resources
+Used random to create a python text-based game where player make strategic decisions about how to manage limited resources
