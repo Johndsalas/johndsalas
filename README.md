@@ -2,7 +2,7 @@
 
 # Volunteer Projects
 
-### [Evictions and Homelessness](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main)     8/2025
+### [Evictions and Homelessness](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main)     9/2025
 In association with Haven for Hope I demonstrate a link between eviction cases and 311 service requests related to homelessness suggesting a relationship between evictions and homelessness. As part of this project I cleaned and compared two data sets and developed a Tableau story to present the results. 
 
 # Independant Data Projects
