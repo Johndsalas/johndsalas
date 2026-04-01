@@ -2,7 +2,7 @@
 
 # Volunteer Projects
 
-### [Haven Evictions and Homelessness Project](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main)  &emsp   4/2025 - 9/2025
+### [Haven Evictions and Homelessness Project](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main) &emsp;   4/2025 - 9/2025
 Analysis of 2,000 311 homelessness service requests and 14,000 Bexar county eviction cases investigating the statistical and geographic link between evictions and homelessness
 
 Findings are presented in a [Tableau Story](https://public.tableau.com/app/profile/john.salas/viz/HavenEvictionsProject/Story)
