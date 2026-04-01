@@ -2,24 +2,30 @@
 
 # Volunteer Projects
 
-### [Evictions and Homelessness](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main)     9/2025
-In association with Haven for Hope I demonstrate a link between eviction cases and 311 service requests related to homelessness suggesting a relationship between evictions and homelessness. As part of this project I cleaned and compared two data sets and developed a Tableau story to present the results. 
+### [Haven Evictions and Homelessness Project](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main)     4/2025 - 9/2025
+Analysis of 2,000 311 homelessness service requests and 14,000 Bexar county eviction cases investigating the statistical and geographic link between evictions and homelessness
+
+Findings are presented in a [Tableau Story](https://public.tableau.com/app/profile/john.salas/viz/HavenEvictionsProject/Story)
+
+Preparation and initial statistical analysis are detailed in on GitHub (Click title to go to the repository)
+
+This public interest data project was developed in association with Haven for Hope and Ryan Orsinger, Director of Data Science and Research at Haven for Hope
 
 # Independant Data Projects
 
-### [Customer Interest Analysis](https://github.com/Johndsalas/customer_interest_analysis)
-Describe how differing interest groups influence customer purchasing decisions at a local game store in 2023 and make recommendations for increasing sales
+### [Customer Interest Analysis](https://github.com/Johndsalas/customer_interest_analysis)     8/2024 - 10/2024
+Analysis of 1,600 transactions at a local game store investigating how customer interest groups influence spending
 
-### [Wrangle LGS Data](https://github.com/Johndsalas/wrangle_lgs_data)
-Wrangle and document preparation of transaction data from a local game store for use in future projects
+### [Wrangle LGS Data](https://github.com/Johndsalas/wrangle_lgs_data)     8/2024 - 8/2024
+Prepared 20,000 rows transaction data from a local game store for use in future projects and document preparation
 
-### [Arkham DB Web Scraper](https://github.com/Johndsalas/arkham_lcg_scraper)
-Developed a script to automate scraping and cleaning player card data from [Arkham DB](https://arkhamdb.com/) 
+### [Arkham DB Web Scraper](https://github.com/Johndsalas/arkham_lcg_scraper)     2/2024 - 8/2024
+Developed Python script to scrape and clean player card data from [Arkham DB](https://arkhamdb.com/) 
 
-### [Netflix Genre Labeler](https://github.com/Johndsalas/netflix_genre_labeler/tree/main) 
-Developed a classification model capable of identifying comedy and non-comedy film descriptions with a ~78% accuracy
+### [Netflix Genre Labeler](https://github.com/Johndsalas/netflix_genre_labeler/tree/main)     6/2023 - 9/2023
+Analyzed 50,000 Netflix film descriptions to develop a logistic regression classification model capable of identifying comedy and non-comedy film descriptions with a ~78% accuracy
 
-### [Chess Upsets Example Project](https://github.com/Johndsalas/chess_upsets_example_project) 
+### [Chess Upsets Example Project](https://github.com/Johndsalas/chess_upsets_example_project)     
 Developed a gold standard classification project for the Codeup curriculum investigating the drivers of upsets in chess games
 
 ### [Earth’s Temperature Time Series](https://github.com/Johndsalas/earths_temperature_time_series) 
