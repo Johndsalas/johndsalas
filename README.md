@@ -2,7 +2,7 @@
 
 # Volunteer Projects
 
-### [Haven Evictions and Homelessness Project](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main)     4/2025 - 9/2025
+### [Haven Evictions and Homelessness Project](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main)  &emsp   4/2025 - 9/2025
 Analysis of 2,000 311 homelessness service requests and 14,000 Bexar county eviction cases investigating the statistical and geographic link between evictions and homelessness
 
 Findings are presented in a [Tableau Story](https://public.tableau.com/app/profile/john.salas/viz/HavenEvictionsProject/Story)
@@ -68,7 +68,7 @@ Utilized object-oriented programing and pygame to develop a fully interactable â
 ### [Space Commander](https://github.com/Johndsalas/space_commander)     12/2020 - 3/2021
 Used random to create a python text-based game where player make strategic decisions about how to manage limited resources
 
-### [Sudoku Solver](https://github.com/Johndsalas/Sudoku_Solver     1/2021 - 1/2021
+### [Sudoku Solver](https://github.com/Johndsalas/Sudoku_Solver)     1/2021 - 1/2021
 Utilized recursion to develop a Python script capable of solving any Sudoku board 
 
 ### [Pony Racing Game](https://github.com/Johndsalas/racing_simulator)     4/2023 - 4/2023
