@@ -60,16 +60,16 @@ Utilized Python and DataRobot’s model building UI to develop an ensemble model
 **Capstone Project for Codeup** <br>
 Utilized pyspark, data analysis, and machine learning to investigate 120,000,000 automated hard drive status reports for drivers of early failing hard drives and develop a support vector classifier capable of predicting 93% of early failing hard drives
 
-# Non-Data Projects
+# Novelty Projects
 
-### [Space Game](https://github.com/Johndsalas/space_game)  &emsp;&emsp;   2/2020 - 2/2020
-Utilized object-oriented programing and pygame to develop a fully interactable “space invaders” inspired game 
-
-### [Space Commander](https://github.com/Johndsalas/space_commander)  &emsp;&emsp;   12/2020 - 3/2021
-Used random to create a python text-based game where player make strategic decisions about how to manage limited resources
+### [Pony Racing Game](https://github.com/Johndsalas/racing_simulator)  &emsp;&emsp;   4/2023 - 4/2023
+Utilized object-oriented programming and pygame to develop a game where ponies race across a field
 
 ### [Sudoku Solver](https://github.com/Johndsalas/Sudoku_Solver)  &emsp;&emsp;   1/2021 - 1/2021
 Utilized recursion to develop a Python script capable of solving any Sudoku board 
 
-### [Pony Racing Game](https://github.com/Johndsalas/racing_simulator)  &emsp;&emsp;   4/2023 - 4/2023
-Utilized object-oriented programming and pygame to develop a game where ponies race across a field 
+### [Space Commander](https://github.com/Johndsalas/space_commander)  &emsp;&emsp;   12/2020 - 3/2021
+Used random to create a python text-based game where player make strategic decisions about how to manage limited resources
+
+### [Space Game](https://github.com/Johndsalas/space_game)  &emsp;&emsp;   2/2020 - 2/2020
+Utilized object-oriented programing and pygame to develop a fully interactable “space invaders” inspired game 
