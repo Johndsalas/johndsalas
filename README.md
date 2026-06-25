@@ -13,6 +13,9 @@ This public interest data project was developed in association with Haven for Ho
 
 # Independant Data Projects
 
+### [Netrunner: Agendas and Acceses](https://github.com/Johndsalas/Netrunner-Analysis) &emsp;&emsp;   5/2026 - 6/2026
+Developed a possibility matrix of 928 deckbuilding combinations to analyse the effect of deckbuilding decisions, made by the corporation, on the number of accesses a runner needs to win in a game of Netrunner
+
 ### [Customer Interest Analysis](https://github.com/Johndsalas/customer_interest_analysis)  &emsp;&emsp;   8/2024 - 10/2024
 Analysis of 1,600 transactions at a local game store investigating how customer interest groups influence spending
 
