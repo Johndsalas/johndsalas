@@ -1,6 +1,6 @@
 ![](github_welcome.png)
 
-# Volunteer Projects
+# Volunteer Project
 
 ### [Haven Evictions and Homelessness Project](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main) &emsp;&emsp; 4/2025 - 8/2025
 Investigated the link between evictions and homelessness in San Antonio, Cleaned court records and 311 requests, mapped their mismatched locations to zip codes, and found evictions explained 39 percent of the variation in homelessness.
