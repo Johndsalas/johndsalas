@@ -3,7 +3,7 @@
 # Volunteer Project
 
 ### [Haven for Hope Evictions and Homelessness Project](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main) &emsp;&emsp; 4/2025 - 8/2025
-Investigated the link between evictions and homelessness in San Antonio. Cleaned court records and 311 requests, mapped their mismatched locations to zip codes, and found evictions explained 39 percent of the variation in homelessness.
+Investigated the link between evictions and homelessness in San Antonio. Cleaned court and 311 service request records, used Python's geospatial libraries to connect their differently coded location data by zip code, and found that evictions explained 39 percent of the variation in homelessness. Presented findings as a Tableau story.
 
 [Full Tableau Story](https://public.tableau.com/app/profile/john.salas/viz/HavenEvictionsProject/Story)
 
@@ -23,21 +23,21 @@ Segmented a local game store's loyalty program members by 2023 spending, finding
 Cleaned three years of a local game store's transaction records, using regex to extract item names and quantities from each transaction. Sorted those items into customer-interest categories, defined and documented from knowledge of the store. Produced a transaction-level dataset of item and category counts, later used to segment the store's customers.
 
 ### [Arkham DB Web Scraper](https://github.com/Johndsalas/arkham_db_web_scraper)  &emsp;&emsp;   11/2023 - 4/2024
-Developed a Python script to scrape and clean player card data from [Arkham DB](https://arkhamdb.com/)
+Built a Python web scraper using BeautifulSoup and regex, then rebuilt the pipeline after the source site's structure changed mid-project, producing a clean, structured dataset extracted from raw HTML.
 
 ### [Netflix Genre Labeler](https://github.com/Johndsalas/netflix_genre_labeler/tree/main)  &emsp;&emsp;   5/2023 - 9/2023
-Analyzed 5,800 Netflix title descriptions to develop a logistic regression classification model capable of identifying comedy and non-comedy titles with 73% accuracy
+Diagnosed a multi-label classification problem where films belonged to overlapping genres, pivoted from a single-category approach to a one-vs-rest binary model, and built a logistic regression classifier that predicted whether a film's description matched the comedy genre with 73% accuracy, beating baseline by 13 points.
 
 ### [Chess Upsets Example Project](https://github.com/Johndsalas/chess_upsets_example_project)  &emsp;&emsp;   9/2022 - 9/2022
-Analysis investigating 20,000 chess matches for drivers of upsets
+Analyzed 20,000 chess matches for drivers of upsets, finding that faster time controls saw higher upset rates of 30 to 34 percent, compared to 22 percent under standard time controls.
 
-This project was added to Codeup's data science curriculum as a gold-standard example of an end-to-end data science project, raising first-project scores by about ten points on a hundred-point scale
+Built as a reference project and added to Codeup's data science curriculum to show students what a finished first project looks like. After it was added, students' first-project scores rose by about ten points on a hundred-point scale.
 
 ### [Earth’s Temperature Time Series](https://github.com/Johndsalas/earths_temperature_time_series)  &emsp;&emsp;   1/2021 - 2/2021
-Analyzed over a century of monthly average temperature readings for Earth to develop two Holt-Winters time series models capable of predicting the Earth’s average temperature with less than one degree of error
+Built Holt-Winters time series models to forecast Earth's monthly average temperature using over a century of historical land and ocean data, achieving under 1 degree of forecast error, and identified a gradual warming trend while noting known measurement biases in the historical record.
 
 ### [Magic: The Gathering Sentiment Analysis](https://github.com/Johndsalas/magic_the_gathering_sentiment_analysis)  &emsp;&emsp;   2/2020 - 4/2020
-Analyzed the flavor text of 12,400 Magic: The Gathering cards to investigate the drivers of sentiment
+Looked for drivers of sentiment in the flavor text of about 12,400 Magic: The Gathering cards across color, type, and rarity. Found sentiment split roughly into thirds (neutral, positive, and negative) across nearly every feature, with color its strongest driver, explaining only 2 percent of sentiment variance.
 
 # Tableau Dashboards
 
@@ -45,17 +45,17 @@ Analyzed the flavor text of 12,400 Magic: The Gathering cards to investigate the
 Cleaned more than 500,000 San Antonio 311 service requests and built an interactive Tableau heat map of requests by zip code, filterable by year and council district, with drill-downs into request type.
 
 ### [Autumn Leaves Attrition Statistics](https://public.tableau.com/app/profile/john.salas/viz/AutumnLeavesAttritionStatistics/AutumLeavesAttritionStatistics)  &emsp;&emsp;   1/2025 - 1/2025
-Tableau dashboard displaying synthetic attrition statistics
+Built a multi-panel Tableau dashboard visualizing synthetic employee attrition data across department, age, and gender, using a variety of chart types and color to highlight key data points at a glance.
 
 # Capstones
 
 ### [Predicting Employee Attrition](https://github.com/Johndsalas/predicting_employee_attrition)  &emsp;&emsp;   10/2020 - 11/2020
 **Capstone Project for DataRobot’s 10x: Applied Data Science Academy** <br>
-Utilized Python and DataRobot’s model building UI to develop an ensemble model capable of predicting employee churn 3.5x better than chance. The estimated maximum ROI when predicting the top 20% of employees likely to attrit was $651K
+Built and evaluated employee attrition prediction models using DataRobot's automated ML platform, testing multiple engineered feature sets based on feature impact and collinearity, and applied a generalizable cost-benefit framework to translate model predictions into an ROI estimate.
 
 ### [Early Failing Hard Drive Analysis](https://github.com/just-keep-spinning/hard-drive-project)  &emsp;&emsp;   1/2020 - 1/2020
 **Four-Person Team Capstone Project for Codeup** <br>
-Utilized data analysis and machine learning to investigate over 120 million automated hard drive status reports for drivers of early failing hard drives and develop a support vector classifier that identified 76% of early failing hard drives
+Collaborated in a four-person team to analyze over 120 million hard drive status reports, identifying the most reliable manufacturers and models. My focus was the domain research that set the project's scope, choosing which drive health statistics to track and where to set the early-failure cutoff, and the exploratory analysis behind the manufacturer reliability rankings.
 
 # Novelty Projects
 
