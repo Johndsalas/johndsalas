@@ -2,7 +2,7 @@
 
 # Volunteer Project
 
-### [Haven Evictions and Homelessness Project](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main) &emsp;&emsp; 4/2025 - 8/2025
+### [Haven for Hope Evictions and Homelessness Project](https://github.com/Johndsalas/haven_for_hope_evictions_project/tree/main) &emsp;&emsp; 4/2025 - 8/2025
 Investigated the link between evictions and homelessness in San Antonio. Cleaned court records and 311 requests, mapped their mismatched locations to zip codes, and found evictions explained 39 percent of the variation in homelessness.
 
 [Full Tableau Story](https://public.tableau.com/app/profile/john.salas/viz/HavenEvictionsProject/Story)
@@ -13,7 +13,7 @@ This public interest data project was developed in association with Ryan Orsinge
 
 # Independent Data Projects
 
-### [Netrunner: Agendas and Accesses](https://github.com/Johndsalas/Netrunner-Analysis) &emsp;&emsp;   4/2026 - 6/2026
+### [Netrunner Deckbuilding Analysis](https://github.com/Johndsalas/netrunner_deckbuilding_analysis) &emsp;&emsp;   4/2026 - 6/2026
 Defined and documented access threshold, a metric for how many cards an opponent must randomly select to win. Measured it across a constructed matrix of 928 Netrunner deck builds using Monte Carlo simulations. Found deckbuilding choices were less impactful on access threshold than expected and recommended prioritizing card synergy instead.
 
 ### [Customer Interest Analysis](https://github.com/Johndsalas/customer_interest_analysis)  &emsp;&emsp;   8/2024 - 10/2024
@@ -22,7 +22,7 @@ Segmented a local game store's loyalty program members by 2023 spending, finding
 ### [Wrangle LGS Data](https://github.com/Johndsalas/wrangle_lgs_data)  &emsp;&emsp;   8/2024 - 10/2024
 Cleaned three years of a local game store's transaction records, using regex to extract item names and quantities from each transaction. Sorted those items into customer-interest categories, defined and documented from knowledge of the store. Produced a transaction-level dataset of item and category counts, later used to segment the store's customers.
 
-### [Arkham DB Web Scraper](https://github.com/Johndsalas/arkham_lcg_scraper)  &emsp;&emsp;   11/2023 - 4/2024
+### [Arkham DB Web Scraper](https://github.com/Johndsalas/arkham_db_web_scraper)  &emsp;&emsp;   11/2023 - 4/2024
 Developed a Python script to scrape and clean player card data from [Arkham DB](https://arkhamdb.com/)
 
 ### [Netflix Genre Labeler](https://github.com/Johndsalas/netflix_genre_labeler/tree/main)  &emsp;&emsp;   5/2023 - 9/2023
@@ -36,7 +36,7 @@ This project was added to Codeup's data science curriculum as a gold-standard ex
 ### [Earth’s Temperature Time Series](https://github.com/Johndsalas/earths_temperature_time_series)  &emsp;&emsp;   1/2021 - 2/2021
 Analyzed over a century of monthly average temperature readings for Earth to develop two Holt-Winters time series models capable of predicting the Earth’s average temperature with less than one degree of error
 
-### [Magic The Gathering Sentiment Analysis](https://github.com/Johndsalas/Sentiment_Analysis_Magic_The_Gathering)  &emsp;&emsp;   2/2020 - 4/2020
+### [Magic: The Gathering Sentiment Analysis](https://github.com/Johndsalas/magic_the_gathering_sentiment_analysis)  &emsp;&emsp;   2/2020 - 4/2020
 Analyzed the flavor text of 12,400 Magic: The Gathering cards to investigate the drivers of sentiment
 
 # Tableau Dashboards
@@ -49,7 +49,7 @@ Tableau dashboard displaying synthetic attrition statistics
 
 # Capstones
 
-### [Predicting Employee Attrition](https://github.com/Johndsalas/employee_churn)  &emsp;&emsp;   10/2020 - 11/2020
+### [Predicting Employee Attrition](https://github.com/Johndsalas/predicting_employee_attrition)  &emsp;&emsp;   10/2020 - 11/2020
 **Capstone Project for DataRobot’s 10x: Applied Data Science Academy** <br>
 Utilized Python and DataRobot’s model building UI to develop an ensemble model capable of predicting employee churn 3.5x better than chance. The estimated maximum ROI when predicting the top 20% of employees likely to attrit was $651K
 
@@ -59,7 +59,7 @@ Utilized data analysis and machine learning to investigate over 120 million auto
 
 # Novelty Projects
 
-### [Pony Racing Game](https://github.com/Johndsalas/racing_simulator)  &emsp;&emsp;   4/2023 - 4/2023
+### [Pony Racing Game](https://github.com/Johndsalas/pony_racing_game)  &emsp;&emsp;   4/2023 - 4/2023
 Utilized object-oriented programming and pygame to develop a game where ponies race across a field
 
 ### [Sudoku Solver](https://github.com/Johndsalas/Sudoku_Solver)  &emsp;&emsp;   1/2021 - 1/2021
