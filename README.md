@@ -45,7 +45,7 @@ Looked for drivers of sentiment in the flavor text of about 12,400 Magic: The Ga
 Cleaned more than 500,000 San Antonio 311 service requests and built an interactive Tableau heat map of requests by zip code, filterable by year and council district, with drill-downs into request type.
 
 ### [Autumn Leaves Attrition Statistics](https://public.tableau.com/app/profile/john.salas/viz/AutumnLeavesAttritionStatistics/AutumLeavesAttritionStatistics)  &emsp;&emsp;   1/2025 - 1/2025
-Built a multi-panel Tableau dashboard visualizing synthetic employee attrition data across department, age, and gender, using a variety of chart types and color to highlight key data points at a glance.
+Built a multi-panel Tableau dashboard visualizing synthetic employee attrition data across department, age, and gender, using KPI summary tiles, a variety of chart types, and color to highlight key data points at a glance.
 
 # Capstones
 
